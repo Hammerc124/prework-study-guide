@@ -5,7 +5,7 @@
 This was created for others who also had the prework assignment
 
 - My motivation for completing this project is to create and learn a neccessary skill
-- I build this project as a test to see if I could solve problems and follow the course.
+- I built this project as a test to see if I could solve problems and follow the course.
 - This website compiles study guide notes to help in the future.
 - I learned 3 different languages of code. 
 
